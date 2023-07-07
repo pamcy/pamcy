@@ -1,6 +1,6 @@
 ## Chinyi Pam&#8213;@pamcy
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Front-End%20Dev&fontAlign=70&rotate=13&fontAlignY=25&desc=done%20is%20better%20than%20perfect&descAlign=70.&descAlignY=44&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Front-End%20Dev&fontSize=52&animation=fadeIn&fontAlignY=38&desc=done%20is%20better%20than%20perfect&descAlignY=52&descAlign=56)
 
 Hi, I'm Pamcy, a front-end developer based in the lively city of Taipei, Taiwan.  
 Currently striving to become a full snack 🍩 developer.
@@ -24,7 +24,7 @@ Currently striving to become a full snack 🍩 developer.
 <br>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,js,react,nextjs,vue,vite,jquery,netlify,git,figma&theme=light)]()
+![My Skills](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,js,react,nextjs,vue,vite,jquery,netlify,git,figma&theme=light)]
 
 <br>
 
