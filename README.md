@@ -32,7 +32,7 @@ Currently striving to become a full snack 🍩 developer.
 ### Github Stats
 <a href='https://github.com/pamcy/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/pamcy/github-stats-transparent/c7945e6bd0c079fe78c0d835f046119d12e289ce/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/pamcy/github-stats-transparent/c7945e6bd0c079fe78c0d835f046119d12e289ce/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/pamcy/github-stats-transparent/b0e4dce0fe5c6e4f27a153e57d3d4cc47300593d/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/pamcy/github-stats-transparent/b0e4dce0fe5c6e4f27a153e57d3d4cc47300593d/generated/languages.svg)
 
 </a>
