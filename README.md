@@ -24,7 +24,7 @@ Currently striving to become a full snack 🍩 developer.
 <br>
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vue,jquery,sass,styledcomponents,tailwind,vite,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,vue,ts,pinia,nuxtjs,supabase,react,nextjs,jquery,sass,styledcomponents,tailwind,vite,figma&theme=light)
 
 <br>
 
